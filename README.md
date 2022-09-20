@@ -4,5 +4,5 @@ Sử dụng
 - SQL Sever
 
 TK admin khi chạy:
-tk: admin
-mk: 123
+- tk: admin
+- mk: 123
